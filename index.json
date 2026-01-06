@@ -1,0 +1,55 @@
+{
+    "version": 1,
+    "updated_at": "2026-01-05",
+    "templates": [
+        {
+            "id": "tpl_1765850363",
+            "name": "（未命名模板）",
+            "mode": "header_map",
+            "file_type": "xlsx",
+            "path": "tpl_1765850363.json"
+        },
+        {
+            "id": "tpl_1765873392",
+            "name": "奇勝",
+            "mode": "header_map",
+            "file_type": "xlsx",
+            "path": "tpl_1765873392.json"
+        },
+        {
+            "id": "tpl_1765875425",
+            "name": "（未命名模板）",
+            "mode": "header_map",
+            "file_type": "xlsx",
+            "path": "tpl_1765875425.json"
+        },
+        {
+            "id": "tpl_1765951248",
+            "name": "（未命名模板）",
+            "mode": "header_map",
+            "file_type": "xlsx",
+            "path": "tpl_1765951248.json"
+        },
+        {
+            "id": "tpl_1765953124",
+            "name": "（未命名模板）",
+            "mode": "header_map",
+            "file_type": "xlsx",
+            "path": "tpl_1765953124.json"
+        },
+        {
+            "id": "tpl_1767080421",
+            "name": "麗盛集團",
+            "mode": "sectioned_ledger",
+            "file_type": "xlsx",
+            "path": "tpl_1767080421.json"
+        },
+        {
+            "id": "tpl_1767585746",
+            "name": "正航1",
+            "mode": "sectioned_ledger",
+            "file_type": "xlsx",
+            "path": "tpl_1767585746.json"
+        }
+    ]
+}

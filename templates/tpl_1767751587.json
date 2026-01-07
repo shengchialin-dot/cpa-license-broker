@@ -1,0 +1,44 @@
+{
+  "name": "鼎新",
+  "file_type": "xlsx",
+  "sheet": "明細分類帳(依科目)-0",
+  "header_row": 7,
+  "data_start_row": 9,
+  "stop_when_blank_rows": 0,
+  "mode": "sectioned_ledger",
+  "columns": {
+    "date": "B",
+    "vno": "C",
+    "summary": "D",
+    "account_name": "A",
+    "debit": "E",
+    "credit": "F"
+  },
+  "auto_fill_continuation": {
+    "enabled": false
+  },
+  "account_infer": {
+    "enabled": false,
+    "trigger_keyword": "期初",
+    "trigger_position": "prev_row",
+    "search_up_rows": 6,
+    "trigger_col": "",
+    "account_regex": "\\(\\s*(\\d{3,10})\\s+([^\\)]+?)\\s*\\)"
+  },
+  "date_mode": "direct",
+  "date_month_col": "",
+  "date_day_col": "",
+  "date_year": "",
+  "date_year_from_filename": false,
+  "accname_row_offset": 0,
+  "accname_pair_window_rows": 2,
+  "accname_cols": "",
+  "wenzhong_marker_enabled": true,
+  "wenzhong_marker_text": "科目代號",
+  "wenzhong_marker_col": "A",
+  "wenzhong_code_col": "A",
+  "wenzhong_name_col": "A",
+  "sample_path": "I:/證實查核/簽證客戶/C17-貝斯美德/114/客戶提供資料/11401-08分類帳-1141029.xlsx",
+  "id": "tpl_1767751587",
+  "updated_at": "2026-01-07 10:06:27"
+}

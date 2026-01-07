@@ -16,7 +16,7 @@
   "accname_row_offset": 0,
   "accname_pair_window_rows": 2,
   "accname_cols": "",
-  "sample_path": "I:/證實查核/簽證客戶/C14-智達/114/客戶提供資料/114.11.20/114年智達期中查核資料(10月)/1140101-1141031分類帳.xlsx",
+  "sample_path": "",
   "id": "tpl_1765875425",
   "updated_at": "2025-12-17 13:55:51",
   "wenzhong_marker_enabled": true,
@@ -24,4 +24,5 @@
   "wenzhong_marker_col": "A",
   "wenzhong_code_col": "B",
   "wenzhong_name_col": "D"
+
 }

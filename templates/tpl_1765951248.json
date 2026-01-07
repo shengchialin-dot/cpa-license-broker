@@ -23,7 +23,7 @@
   "wenzhong_marker_col": "A",
   "wenzhong_code_col": "B",
   "wenzhong_name_col": "D",
-  "sample_path": "I:/證實查核/簽證客戶/A11-永曜/114/PBC/114.10.13/分類帳.xlsx",
+  "sample_path": "",
   "id": "tpl_1765951248",
   "updated_at": "2025-12-30 15:04:34",
   "auto_fill_continuation": {
@@ -34,4 +34,5 @@
   "date_day_col": "",
   "date_year": "",
   "date_year_from_filename": false
+
 }

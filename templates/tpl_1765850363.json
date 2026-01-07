@@ -18,7 +18,7 @@
   "accname_row_offset": 0,
   "accname_pair_window_rows": 2,
   "accname_cols": "",
-  "sample_path": "I:/證實查核/簽證客戶/C18-皇輝國際/114/客戶提供資料/114.11.26/皇輝國際-明細分類帳(11401-11410).xlsx",
+  "sample_path": "",
   "id": "tpl_1765850363",
   "updated_at": "2025-12-30 15:08:45",
   "auto_fill_continuation": {
@@ -34,4 +34,5 @@
   "wenzhong_marker_col": "A",
   "wenzhong_code_col": "B",
   "wenzhong_name_col": "D"
+
 }

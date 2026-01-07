@@ -26,7 +26,7 @@
   "wenzhong_marker_col": "A",
   "wenzhong_code_col": "A",
   "wenzhong_name_col": "A",
-  "sample_path": "I:/證實查核/簽證客戶/C07-權褔/底稿/114/PBC/114.11.24/114年01-10月明細分類帳.xlsx",
+  "sample_path": "",
   "id": "tpl_1767585746",
   "updated_at": "2026-01-05 13:37:35",
   "auto_fill_continuation": {
@@ -40,4 +40,5 @@
     "trigger_col": "",
     "account_regex": "\\(\\s*(\\d{3,10})\\s+([^\\)]+?)\\s*\\)"
   }
+
 }

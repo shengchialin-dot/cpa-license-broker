@@ -58,5 +58,13 @@
             "file_type": "xlsx",
             "file": "templates/tpl_1767751587.json"
         }
+                {
+            "id": "tpl_1768549701.json",
+            "name": "文中公司版",
+            "mode": "sectioned_ledger",
+            "file_type": "xlsx",
+            "file": "templates/tpl_1768549701.json"
+        }
     ]
 }
+

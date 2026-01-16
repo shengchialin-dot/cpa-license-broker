@@ -1,0 +1,43 @@
+{
+  "name": "文中公司版",
+  "file_type": "xlsx",
+  "sheet": "分類帳~1",
+  "header_row": 5,
+  "data_start_row": 6,
+  "stop_when_blank_rows": 0,
+  "mode": "sectioned_ledger",
+  "columns": {
+    "date": "A",
+    "vno": "B",
+    "summary": "D",
+    "debit": "F",
+    "credit": "G"
+  },
+  "auto_fill_continuation": {
+    "enabled": false
+  },
+  "account_infer": {
+    "enabled": false,
+    "trigger_keyword": "期初",
+    "trigger_position": "prev_row",
+    "search_up_rows": 6,
+    "trigger_col": "",
+    "account_regex": "\\(\\s*(\\d{3,10})\\s+([^\\)]+?)\\s*\\)"
+  },
+  "date_mode": "direct",
+  "date_month_col": "",
+  "date_day_col": "",
+  "date_year": "",
+  "date_year_from_filename": false,
+  "accname_row_offset": 0,
+  "accname_pair_window_rows": 2,
+  "accname_cols": "",
+  "wenzhong_marker_enabled": true,
+  "wenzhong_marker_text": "科目代號",
+  "wenzhong_marker_col": "A",
+  "wenzhong_code_col": "B",
+  "wenzhong_name_col": "D",
+  "sample_path": "I:/證實查核/簽證客戶/C15-台灣道格/114/客戶提供資料/115.01.16/1140101-1141231分類帳.xlsx",
+  "id": "tpl_1768549701",
+  "updated_at": "2026-01-16 15:50:15"
+}

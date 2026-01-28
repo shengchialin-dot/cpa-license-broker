@@ -57,6 +57,13 @@
             "mode": "sectioned_ledger",
             "file_type": "xlsx",
             "file": "templates/tpl_1767751587.json"
+        }
+                {
+            "id": "tpl_1767751587",
+            "name": "鼎新",
+            "mode": "sectioned_ledger",
+            "file_type": "xlsx",
+            "file": "templates/tpl_1767751587.json"
         },
         {
             "id": "tpl_1768549701",
@@ -64,7 +71,13 @@
             "mode": "sectioned_ledger",
             "file_type": "xlsx",
             "file": "templates/tpl_1768549701.json"
+        },
+        {
+            "id": "tpl_1769580710",
+            "name": "凌越",
+            "mode": "sectioned_ledger",
+            "file_type": "xlsx",
+            "file": "templates/tpl_1769580710.json"
         }
     ]
 }
-

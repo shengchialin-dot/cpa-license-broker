@@ -1,90 +1,121 @@
 {
-    "version": 1,
-    "updated_at": "2026-01-05",
-    "templates": [
-        {
-            "id": "tpl_1765850363",
-            "name": "正航",
-            "mode": "header_map",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1765850363.json"
-        },
-        {
-            "id": "tpl_1765873392",
-            "name": "奇勝",
-            "mode": "header_map",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1765873392.json"
-        },
-        {
-            "id": "tpl_1765875425",
-            "name": "文中",
-            "mode": "header_map",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1765875425.json"
-        },
-        {
-            "id": "tpl_1765951248",
-            "name": "揚智",
-            "mode": "header_map",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1765951248.json"
-        },
-        {
-            "id": "tpl_1765953124",
-            "name": "巨匠",
-            "mode": "header_map",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1765953124.json"
-        },
-        {
-            "id": "tpl_1767080421",
-            "name": "麗盛集團",
-            "mode": "sectioned_ledger",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1767080421.json"
-        },
-        {
-            "id": "tpl_1767585746",
-            "name": "正航1",
-            "mode": "sectioned_ledger",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1767585746.json"
-        },
-        {
-            "id": "tpl_1767751587",
-            "name": "鼎新",
-            "mode": "sectioned_ledger",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1767751587.json"
-        },
-                {
-            "id": "tpl_1767751587",
-            "name": "鼎新",
-            "mode": "sectioned_ledger",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1767751587.json"
-        },
-        {
-            "id": "tpl_1768549701",
-            "name": "文中公司版",
-            "mode": "sectioned_ledger",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1768549701.json"
-        },
-                {
-            "id": "tpl_1780038432",
-            "name": "鼎健",
-            "mode": "sectioned_ledger",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1780038432.json"
-        },
-        {
-            "id": "tpl_1769580710",
-            "name": "凌越",
-            "mode": "sectioned_ledger",
-            "file_type": "xlsx",
-            "file": "templates/tpl_1769580710.json"
-        }
-    ]
+  "templates": [
+    {
+      "id": "tpl_1769580710",
+      "name": "凌越",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "工作表1",
+      "updated_at": "2026-01-28 14:13:21",
+      "file": "templates/tpl_1769580710.json"
+    },
+    {
+      "id": "tpl_1765873392",
+      "name": "奇勝",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "0",
+      "updated_at": "2026-01-06 13:29:44",
+      "file": "templates/tpl_1765873392.json"
+    },
+    {
+      "id": "tpl_1765953124",
+      "name": "巨匠",
+      "mode": "paged_ledger",
+      "file_type": "xlsx",
+      "sheet": "Sheet1",
+      "updated_at": "2025-12-30 12:05:08",
+      "file": "templates/tpl_1765953124.json"
+    },
+    {
+      "id": "tpl_1765951248",
+      "name": "揚智",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "",
+      "updated_at": "2025-12-30 15:04:34",
+      "file": "templates/tpl_1765951248.json"
+    },
+    {
+      "id": "tpl_1765875425",
+      "name": "文中",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "分類帳~1",
+      "updated_at": "2025-12-17 13:55:51",
+      "file": "templates/tpl_1765875425.json"
+    },
+    {
+      "id": "tpl_1768549701",
+      "name": "文中公司版",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "分類帳~1",
+      "updated_at": "2026-01-16 16:16:19",
+      "file": "templates/tpl_1768549701.json"
+    },
+    {
+      "id": "tpl_1765850363",
+      "name": "正航",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "Page 1",
+      "updated_at": "2026-01-06 12:09:47",
+      "file": "templates/tpl_1765850363.json"
+    },
+    {
+      "id": "tpl_1767585746",
+      "name": "正航1",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "工作表1",
+      "updated_at": "2026-01-05 13:37:35",
+      "file": "templates/tpl_1767585746.json"
+    },
+    {
+      "id": "tpl_1780293271",
+      "name": "正航2",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "明細分類帳(依科目)-0",
+      "updated_at": "2026-06-01 13:57:10",
+      "file": "templates/tpl_1780293271.json"
+    },
+    {
+      "id": "tpl_1780287452",
+      "name": "麗盛1",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "Sheet1",
+      "updated_at": "2026-06-01 12:18:36",
+      "file": "templates/tpl_1780287452.json"
+    },
+    {
+      "id": "tpl_1767080421",
+      "name": "麗盛集團",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "Sheet1",
+      "updated_at": "2026-06-01 12:09:28",
+      "file": "templates/tpl_1767080421.json"
+    },
+    {
+      "id": "tpl_1780038432",
+      "name": "鼎健",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "Page 1",
+      "updated_at": "2026-05-29 15:07:12",
+      "file": "templates/tpl_1780038432.json"
+    },
+    {
+      "id": "tpl_1767751587",
+      "name": "鼎新",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "明細分類帳(依科目)-0",
+      "updated_at": "2026-01-07 10:20:17",
+      "file": "templates/tpl_1767751587.json"
+    }
+  ]
 }

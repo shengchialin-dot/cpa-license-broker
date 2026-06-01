@@ -21,7 +21,6 @@
   "wenzhong_marker_col": "A",
   "wenzhong_code_col": "A",
   "wenzhong_name_col": "A",
-  "sample_path": "",
   "id": "tpl_1765953124",
   "updated_at": "2025-12-30 12:05:08",
   "date_mode": "md",
@@ -29,5 +28,4 @@
   "date_day_col": "C",
   "date_year": "",
   "date_year_from_filename": false
-
 }

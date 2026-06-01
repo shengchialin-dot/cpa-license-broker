@@ -1,20 +1,21 @@
 {
-  "name": "凌越",
+  "name": "正航2",
   "file_type": "xlsx",
-  "sheet": "工作表1",
+  "sheet": "明細分類帳(依科目)-0",
   "header_row": 1,
   "data_start_row": 2,
   "stop_when_blank_rows": 0,
   "mode": "sectioned_ledger",
   "columns": {
-    "date": "A",
-    "vno": "B",
+    "date": "B",
+    "vno": "C",
     "summary": "D",
+    "account_name": "A",
     "debit": "E",
     "credit": "F"
   },
   "auto_fill_continuation": {
-    "enabled": true
+    "enabled": false
   },
   "account_infer": {
     "enabled": false,
@@ -37,6 +38,6 @@
   "wenzhong_marker_col": "A",
   "wenzhong_code_col": "A",
   "wenzhong_name_col": "A",
-  "id": "tpl_1769580710",
-  "updated_at": "2026-01-28 14:13:21"
+  "id": "tpl_1780293271",
+  "updated_at": "2026-06-01 13:57:10"
 }

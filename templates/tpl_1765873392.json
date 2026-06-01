@@ -18,9 +18,8 @@
   "accname_row_offset": 0,
   "accname_pair_window_rows": 2,
   "accname_cols": "",
-  "sample_path": "",
   "id": "tpl_1765873392",
-  "updated_at": "2025-12-30 15:03:33",
+  "updated_at": "2026-01-06 13:29:44",
   "auto_fill_continuation": {
     "enabled": true
   },
@@ -33,6 +32,13 @@
   "wenzhong_marker_text": "科目代號",
   "wenzhong_marker_col": "A",
   "wenzhong_code_col": "B",
-  "wenzhong_name_col": "D"
-
+  "wenzhong_name_col": "D",
+  "account_infer": {
+    "enabled": false,
+    "trigger_keyword": "期初",
+    "trigger_position": "prev_row",
+    "search_up_rows": 6,
+    "trigger_col": "",
+    "account_regex": "\\(\\s*(\\d{3,10})\\s+([^\\)]+?)\\s*\\)"
+  }
 }

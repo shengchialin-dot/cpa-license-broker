@@ -18,9 +18,8 @@
   "accname_row_offset": 0,
   "accname_pair_window_rows": 2,
   "accname_cols": "",
-  "sample_path": "",
   "id": "tpl_1765850363",
-  "updated_at": "2025-12-30 15:08:45",
+  "updated_at": "2026-01-06 12:09:47",
   "auto_fill_continuation": {
     "enabled": false
   },
@@ -34,5 +33,4 @@
   "wenzhong_marker_col": "A",
   "wenzhong_code_col": "B",
   "wenzhong_name_col": "D"
-
 }

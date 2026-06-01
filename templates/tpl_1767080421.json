@@ -35,10 +35,8 @@
   "wenzhong_marker_enabled": false,
   "wenzhong_marker_text": "科目代號",
   "wenzhong_marker_col": "A",
-  "wenzhong_code_col": "B",
-  "wenzhong_name_col": "D",
-  "sample_path": "",
+  "wenzhong_code_col": "A",
+  "wenzhong_name_col": "A",
   "id": "tpl_1767080421",
-  "updated_at": "2026-01-02 15:52:05"
-
+  "updated_at": "2026-06-01 12:09:28"
 }

@@ -91,6 +91,15 @@
       "file": "templates/tpl_1780293271.json"
     },
     {
+      "id": "tpl_1780381272",
+      "name": "華義_明細分類帳_傳票取日期",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "Page1",
+      "updated_at": "2026-06-02 14:22:33",
+      "file": "templates/tpl_1780381272.json"
+    },
+    {
       "id": "tpl_1780287452",
       "name": "麗盛1",
       "mode": "sectioned_ledger",

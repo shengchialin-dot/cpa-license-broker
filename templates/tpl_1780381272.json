@@ -1,0 +1,45 @@
+{
+  "name": "華義_明細分類帳_傳票取日期",
+  "file_type": "xlsx",
+  "sheet": "Page1",
+  "header_row": 3,
+  "data_start_row": 4,
+  "stop_when_blank_rows": 0,
+  "mode": "header_map",
+  "columns": {
+    "vno": "C",
+    "summary": "E",
+    "account_code": "A",
+    "account_name": "B",
+    "debit": "F",
+    "credit": "G"
+  },
+  "date_mode": "extract_from_vno",
+  "date_source_col": "C",
+  "date_regex": "^[A-Za-z]?\\d(\\d{3})(\\d{2})(\\d{2})",
+  "id": "tpl_1780381272",
+  "updated_at": "2026-06-02 14:22:33",
+  "auto_fill_continuation": {
+    "enabled": false
+  },
+  "account_infer": {
+    "enabled": false,
+    "trigger_keyword": "期初",
+    "trigger_position": "prev_row",
+    "search_up_rows": 6,
+    "trigger_col": "",
+    "account_regex": "\\(\\s*(\\d{3,10})\\s+([^\\)]+?)\\s*\\)"
+  },
+  "date_month_col": "",
+  "date_day_col": "",
+  "date_year": "",
+  "date_year_from_filename": false,
+  "accname_row_offset": 0,
+  "accname_pair_window_rows": 2,
+  "accname_cols": "",
+  "wenzhong_marker_enabled": false,
+  "wenzhong_marker_text": "科目代號",
+  "wenzhong_marker_col": "A",
+  "wenzhong_code_col": "B",
+  "wenzhong_name_col": "D"
+}

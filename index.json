@@ -19,6 +19,15 @@
       "file": "templates/tpl_1765873392.json"
     },
     {
+      "id": "tpl_1780298305",
+      "name": "宏普集團",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "Sheet1",
+      "updated_at": "2026-06-02 08:57:00",
+      "file": "templates/tpl_1780298305.json"
+    },
+    {
       "id": "tpl_1765953124",
       "name": "巨匠",
       "mode": "paged_ledger",

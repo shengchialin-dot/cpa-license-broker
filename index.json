@@ -55,6 +55,15 @@
       "file": "templates/tpl_1765875425.json"
     },
     {
+      "id": "tpl_1780451594",
+      "name": "文中1",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "1131231_分類帳-20250218",
+      "updated_at": "2026-06-03 10:04:35",
+      "file": "templates/tpl_1780451594.json"
+    },
+    {
       "id": "tpl_1768549701",
       "name": "文中公司版",
       "mode": "sectioned_ledger",

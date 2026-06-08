@@ -1,6 +1,42 @@
 {
   "templates": [
     {
+      "id": "tpl_txt_print_box_cp950",
+      "name": "TXT列印型總分類帳-框線CP950",
+      "mode": "print_ledger_txt",
+      "file_type": "txt",
+      "sheet": "",
+      "updated_at": "2026-06-08",
+      "file": "templates/tpl_txt_print_box_cp950.json"
+    },
+    {
+      "id": "tpl_txt_tab_detail",
+      "name": "TXT明細帳-Tab分隔",
+      "mode": "print_ledger_txt",
+      "file_type": "txt",
+      "sheet": "",
+      "updated_at": "2026-06-08",
+      "file": "templates/tpl_txt_tab_detail.json"
+    },
+    {
+      "id": "tpl_txt_pipe_detail",
+      "name": "TXT明細帳-直線分隔",
+      "mode": "print_ledger_txt",
+      "file_type": "txt",
+      "sheet": "",
+      "updated_at": "2026-06-08",
+      "file": "templates/tpl_txt_pipe_detail.json"
+    },
+    {
+      "id": "tpl_txt_fixed_width_sectioned",
+      "name": "TXT總分類帳-固定寬度段落",
+      "mode": "print_ledger_txt",
+      "file_type": "txt",
+      "sheet": "",
+      "updated_at": "2026-06-08",
+      "file": "templates/tpl_txt_fixed_width_sectioned.json"
+    },
+    {
       "id": "tpl_1769580710",
       "name": "凌越",
       "mode": "sectioned_ledger",

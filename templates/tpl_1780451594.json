@@ -1,0 +1,44 @@
+{
+  "name": "文中1",
+  "file_type": "xlsx",
+  "sheet": "1131231_分類帳-20250218",
+  "header_row": 4,
+  "data_start_row": 5,
+  "stop_when_blank_rows": 0,
+  "mode": "sectioned_ledger",
+  "columns": {
+    "date": "A",
+    "vno": "B",
+    "summary": "D",
+    "debit": "G",
+    "credit": "I"
+  },
+  "date_mode": "direct",
+  "wenzhong_marker_enabled": true,
+  "wenzhong_marker_text": "會計項目",
+  "wenzhong_marker_col": "A",
+  "wenzhong_code_col": "A",
+  "wenzhong_name_col": "A",
+  "id": "tpl_1780451594",
+  "updated_at": "2026-06-03 10:04:35",
+  "auto_fill_continuation": {
+    "enabled": false
+  },
+  "account_infer": {
+    "enabled": false,
+    "trigger_keyword": "期初",
+    "trigger_position": "prev_row",
+    "search_up_rows": 6,
+    "trigger_col": "",
+    "account_regex": "\\(\\s*(\\d{3,10})\\s+([^\\)]+?)\\s*\\)"
+  },
+  "date_month_col": "",
+  "date_day_col": "",
+  "date_year": "",
+  "date_year_from_filename": false,
+  "date_source_col": "",
+  "date_regex": "",
+  "accname_row_offset": 0,
+  "accname_pair_window_rows": 2,
+  "accname_cols": ""
+}

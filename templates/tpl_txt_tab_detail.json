@@ -1,0 +1,19 @@
+{
+  "id": "tpl_txt_tab_detail",
+  "name": "TXT明細帳-Tab分隔",
+  "file_type": "txt",
+  "mode": "print_ledger_txt",
+  "encoding": "cp950",
+  "control_regex": "~[A-Za-z]+[0-9A-Za-z]*;",
+  "account_marker_regex": "(?!)",
+  "detail_line_regex": "^\\s*(?P<date>\\d{2,4}[/-]\\d{1,2}[/-]\\d{1,2})\\t(?P<vno>[^\\t]+)\\t(?P<account_code>[^\\t]*)\\t(?P<account_name>[^\\t]*)\\t(?P<memo>[^\\t]*)\\t(?P<debit>[-(),\\d.，,]*)\\t(?P<credit>[-(),\\d.，,]*)\\s*$",
+  "voucher_summary_mode": "none",
+  "skip_keywords": [
+    "上月結轉",
+    "本月結轉",
+    "總計",
+    "合計"
+  ],
+  "description": "2026-06-08 功能：預設解析每列含日期、傳票、科目代號、科目名稱、摘要、借方、貸方的 Tab 分隔 TXT。",
+  "updated_at": "2026-06-08"
+}

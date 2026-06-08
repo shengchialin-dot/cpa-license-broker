@@ -1,0 +1,19 @@
+{
+  "id": "tpl_txt_fixed_width_sectioned",
+  "name": "TXT總分類帳-固定寬度段落",
+  "file_type": "txt",
+  "mode": "print_ledger_txt",
+  "encoding": "cp950",
+  "control_regex": "~[A-Za-z]+[0-9A-Za-z]*;",
+  "account_marker_regex": "(?:科目|會計科目|會計項目)\\s*[:：]?\\s*(?P<code>[0-9A-Za-z_.\\-]{3,12})\\s+(?P<name>[^\\s]+)",
+  "detail_line_regex": "^\\s*(?P<month>\\d{1,2})[/-](?P<day>\\d{1,2})\\s+(?P<vno>\\S+)\\s+(?P<memo>.*?)\\s{2,}(?P<debit>[-(),\\d.，,]*)\\s{2,}(?P<credit>[-(),\\d.，,]*)\\s*$",
+  "voucher_summary_mode": "none",
+  "skip_keywords": [
+    "上月結轉",
+    "本月結轉",
+    "總計",
+    "合計"
+  ],
+  "description": "2026-06-08 功能：預設解析科目在段落列、明細列用固定寬度空白對齊的 TXT 總分類帳。",
+  "updated_at": "2026-06-08"
+}

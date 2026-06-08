@@ -1,0 +1,19 @@
+{
+  "id": "tpl_txt_print_box_cp950",
+  "name": "TXT列印型總分類帳-框線CP950",
+  "file_type": "txt",
+  "mode": "print_ledger_txt",
+  "encoding": "cp950",
+  "control_regex": "~[A-Za-z]+[0-9A-Za-z]*;",
+  "account_marker_regex": "會計科目及代碼\\s*[:：]\\s*(?P<code>[0-9A-Za-z_.\\-]+)\\s*(?P<name>.*?)(?:Page\\s*:|$)",
+  "detail_line_regex": "",
+  "voucher_summary_mode": "first_token_is_voucher",
+  "skip_keywords": [
+    "上月結轉",
+    "本月結轉",
+    "總計",
+    "合計"
+  ],
+  "description": "2026-06-08 功能：預設解析含印表控制碼與框線字元的 Big5/CP950 總分類帳 TXT。",
+  "updated_at": "2026-06-08"
+}

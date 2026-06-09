@@ -1,0 +1,46 @@
+{
+  "name": "一般明細帳",
+  "file_type": "xlsx",
+  "sheet": "ACTR09202511120000652025111 (2)",
+  "header_row": 4,
+  "data_start_row": 5,
+  "stop_when_blank_rows": 0,
+  "mode": "header_map",
+  "columns": {
+    "date": "傳票日期",
+    "vno": "傳票編號",
+    "summary": "摘要",
+    "account_code": "科目編號",
+    "account_name": "科目名稱",
+    "debit": "借方金額",
+    "credit": "貸方金額"
+  },
+  "auto_fill_continuation": {
+    "enabled": false
+  },
+  "account_infer": {
+    "enabled": false,
+    "trigger_keyword": "期初",
+    "trigger_position": "prev_row",
+    "search_up_rows": 6,
+    "trigger_col": "",
+    "account_regex": "\\(\\s*(\\d{3,10})\\s+([^\\)]+?)\\s*\\)"
+  },
+  "date_mode": "direct",
+  "date_month_col": "",
+  "date_day_col": "",
+  "date_year": "",
+  "date_year_from_filename": false,
+  "date_source_col": "",
+  "date_regex": "",
+  "accname_row_offset": 0,
+  "accname_pair_window_rows": 2,
+  "accname_cols": "",
+  "wenzhong_marker_enabled": false,
+  "wenzhong_marker_text": "科目代號",
+  "wenzhong_marker_col": "A",
+  "wenzhong_code_col": "B",
+  "wenzhong_name_col": "D",
+  "id": "tpl_1780977228",
+  "updated_at": "2026-06-09 11:53:48"
+}

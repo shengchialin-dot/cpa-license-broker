@@ -1,6 +1,15 @@
 {
   "templates": [
     {
+      "id": "tpl_xml_excel_ledger",
+      "name": "Excel XML總分類帳",
+      "mode": "excel_xml_ledger",
+      "file_type": "xml",
+      "sheet": "Sheet1",
+      "updated_at": "",
+      "file": "templates/tpl_xml_excel_ledger.json"
+    },
+    {
       "id": "tpl_txt_print_box_cp950",
       "name": "TXT列印型總分類帳-框線CP950",
       "mode": "print_ledger_txt",
@@ -60,7 +69,7 @@
       "mode": "header_map",
       "file_type": "xlsx",
       "sheet": "0",
-      "updated_at": "2026-01-06 13:29:44",
+      "updated_at": "2025-12-30 15:03:33",
       "file": "templates/tpl_1765873392.json"
     },
     {
@@ -123,7 +132,7 @@
       "mode": "sectioned_ledger",
       "file_type": "xlsx",
       "sheet": "Page 1",
-      "updated_at": "2026-01-06 12:09:47",
+      "updated_at": "2025-12-30 15:08:45",
       "file": "templates/tpl_1765850363.json"
     },
     {
@@ -145,12 +154,21 @@
       "file": "templates/tpl_1780293271.json"
     },
     {
+      "id": "tpl_1765850363_user_backup_15221950",
+      "name": "正航（使用者備份）",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "Page 1",
+      "updated_at": "2026-06-09 10:26:07",
+      "file": "templates/tpl_1765850363_user_backup_15221950.json"
+    },
+    {
       "id": "tpl_1780381272",
       "name": "華義_明細分類帳_傳票取日期",
       "mode": "header_map",
       "file_type": "xlsx",
       "sheet": "Page1",
-      "updated_at": "2026-06-02 14:22:33",
+      "updated_at": "2026-06-09 10:37:13",
       "file": "templates/tpl_1780381272.json"
     },
     {
@@ -159,7 +177,7 @@
       "mode": "sectioned_ledger",
       "file_type": "xlsx",
       "sheet": "Sheet1",
-      "updated_at": "2026-06-01 12:18:36",
+      "updated_at": "2026-06-09 10:37:14",
       "file": "templates/tpl_1780287452.json"
     },
     {
@@ -168,7 +186,7 @@
       "mode": "sectioned_ledger",
       "file_type": "xlsx",
       "sheet": "Sheet1",
-      "updated_at": "2026-06-01 12:09:28",
+      "updated_at": "2026-01-02 15:52:05",
       "file": "templates/tpl_1767080421.json"
     },
     {
@@ -186,7 +204,7 @@
       "mode": "sectioned_ledger",
       "file_type": "xlsx",
       "sheet": "明細分類帳(依科目)-0",
-      "updated_at": "2026-01-07 10:20:17",
+      "updated_at": "2026-01-07 10:06:27",
       "file": "templates/tpl_1767751587.json"
     }
   ]

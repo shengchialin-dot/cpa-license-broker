@@ -46,6 +46,15 @@
       "file": "templates/tpl_1769580710.json"
     },
     {
+      "id": "tpl_1780965729",
+      "name": "分段式分類帳",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "1",
+      "updated_at": "2026-06-09 08:42:09",
+      "file": "templates/tpl_1780965729.json"
+    },
+    {
       "id": "tpl_1765873392",
       "name": "奇勝",
       "mode": "header_map",

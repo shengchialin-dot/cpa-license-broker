@@ -46,6 +46,15 @@
       "file": "templates/tpl_txt_fixed_width_sectioned.json"
     },
     {
+      "id": "tpl_1780977228",
+      "name": "一般明細帳",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "ACTR09202511120000652025111 (2)",
+      "updated_at": "2026-06-09 11:53:48",
+      "file": "templates/tpl_1780977228.json"
+    },
+    {
       "id": "tpl_1769580710",
       "name": "凌越",
       "mode": "sectioned_ledger",

@@ -1,0 +1,32 @@
+{
+  "id": "tpl_xml_excel_ledger",
+  "name": "Excel XML總分類帳",
+  "file_type": "xml",
+  "sheet": "Sheet1",
+  "header_row": 4,
+  "data_start_row": 5,
+  "stop_when_blank_rows": 0,
+  "mode": "excel_xml_ledger",
+  "columns": {
+    "account_code": "A",
+    "account_name": "B",
+    "vno": "C",
+    "summary": "I",
+    "debit": "J",
+    "credit": "K"
+  },
+  "auto_fill_continuation": {
+    "enabled": false
+  },
+  "date_mode": "extract_from_vno",
+  "date_source_col": "C",
+  "date_regex": "^(?:[A-Za-z]?)(\\d{3})(\\d{2})(\\d{2})\\d*",
+  "skip_keywords": [
+    "小計",
+    "合計",
+    "月計",
+    "總計",
+    "累計"
+  ],
+  "description": "2026-06-09 功能：解析 Excel 2003 XML Spreadsheet 總分類帳，從傳票號碼擷取日期，並將只有摘要欄的續行列合併回上一筆交易。"
+}

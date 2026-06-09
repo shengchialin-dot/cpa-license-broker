@@ -18,7 +18,7 @@
   "date_source_col": "C",
   "date_regex": "^[A-Za-z]?\\d(\\d{3})(\\d{2})(\\d{2})",
   "id": "tpl_1780381272",
-  "updated_at": "2026-06-02 14:22:33",
+  "updated_at": "2026-06-09 10:37:13",
   "auto_fill_continuation": {
     "enabled": false
   },

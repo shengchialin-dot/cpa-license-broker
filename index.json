@@ -64,6 +64,15 @@
       "file": "templates/tpl_1769580710.json"
     },
     {
+      "id": "tpl_1780995165",
+      "name": "分段分類帳1",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "ACT32110",
+      "updated_at": "2026-06-09 16:54:48",
+      "file": "templates/tpl_1780995165.json"
+    },
+    {
       "id": "tpl_1780965729",
       "name": "分段式分類帳",
       "mode": "sectioned_ledger",

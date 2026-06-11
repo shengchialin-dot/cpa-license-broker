@@ -109,6 +109,15 @@
       "file": "templates/tpl_1765953124.json"
     },
     {
+      "id": "tpl_1781082396",
+      "name": "常見一般明細帳",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "明細分類帳",
+      "updated_at": "2026-06-10 17:09:02",
+      "file": "templates/tpl_1781082396.json"
+    },
+    {
       "id": "tpl_1765951248",
       "name": "揚智",
       "mode": "header_map",
@@ -116,6 +125,15 @@
       "sheet": "",
       "updated_at": "2025-12-30 15:04:34",
       "file": "templates/tpl_1765951248.json"
+    },
+    {
+      "id": "tpl_1765951248_user_backup_c45a804c",
+      "name": "揚智（使用者備份）",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "分類帳",
+      "updated_at": "2026-06-11 09:48:53",
+      "file": "templates/tpl_1765951248_user_backup_c45a804c.json"
     },
     {
       "id": "tpl_1765875425",
@@ -188,6 +206,15 @@
       "sheet": "Page1",
       "updated_at": "2026-06-09 10:37:13",
       "file": "templates/tpl_1780381272.json"
+    },
+    {
+      "id": "tpl_1781077504",
+      "name": "金額單一欄位，借貸區分",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "ACDTLPC1652025",
+      "updated_at": "2026-06-10 16:30:32",
+      "file": "templates/tpl_1781077504.json"
     },
     {
       "id": "tpl_1780287452",

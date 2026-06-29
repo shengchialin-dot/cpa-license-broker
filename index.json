@@ -82,6 +82,15 @@
       "file": "templates/tpl_1780965729.json"
     },
     {
+      "id": "tpl_1782696009",
+      "name": "券商分類帳-部門來源單位",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "",
+      "updated_at": "2026-06-29 09:25:58",
+      "file": "templates/tpl_1782696009.json"
+    },
+    {
       "id": "tpl_1765873392",
       "name": "奇勝",
       "mode": "header_map",

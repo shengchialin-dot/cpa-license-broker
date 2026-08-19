@@ -64,6 +64,15 @@
       "file": "templates/tpl_1769580710.json"
     },
     {
+      "id": "tpl_1769580710_user_backup_f97e032a",
+      "name": "凌越1（使用者修改備份）",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "總帳",
+      "updated_at": "2026-08-19 09:16:44",
+      "file": "templates/tpl_1769580710_user_backup_f97e032a.json"
+    },
+    {
       "id": "tpl_1780995165",
       "name": "分段分類帳1",
       "mode": "sectioned_ledger",
@@ -145,6 +154,15 @@
       "file": "templates/tpl_1765951248.json"
     },
     {
+      "id": "tpl_1765951248_user_backup_c45a804c",
+      "name": "揚智（使用者備份）",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "分類帳",
+      "updated_at": "2026-06-11 09:48:53",
+      "file": "templates/tpl_1765951248_user_backup_c45a804c.json"
+    },
+    {
       "id": "tpl_1765875425",
       "name": "文中",
       "mode": "sectioned_ledger",
@@ -197,6 +215,15 @@
       "sheet": "明細分類帳(依科目)-0",
       "updated_at": "2026-06-01 13:57:10",
       "file": "templates/tpl_1780293271.json"
+    },
+    {
+      "id": "tpl_1765850363_user_backup_15221950",
+      "name": "正航（使用者備份）",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "Page 1",
+      "updated_at": "2026-06-09 10:26:07",
+      "file": "templates/tpl_1765850363_user_backup_15221950.json"
     },
     {
       "id": "tpl_1780381272",
@@ -260,6 +287,15 @@
       "sheet": "明細分類帳(依科目)-0",
       "updated_at": "2026-01-07 10:06:27",
       "file": "templates/tpl_1767751587.json"
+    },
+    {
+      "id": "tpl_1787101568",
+      "name": "鼎新ERP1",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "第 1 頁",
+      "updated_at": "2026-08-19 09:06:39",
+      "file": "templates/tpl_1787101568.json"
     }
   ]
 }

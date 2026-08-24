@@ -55,6 +55,15 @@
       "file": "templates/tpl_1780977228.json"
     },
     {
+      "id": "tpl_1787553330022",
+      "name": "一般明細帳",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "sheet1",
+      "updated_at": "2026-08-24 14:35:30",
+      "file": "templates/tpl_1787553330022.json"
+    },
+    {
       "id": "tpl_1769580710",
       "name": "凌越",
       "mode": "sectioned_ledger",
@@ -65,12 +74,21 @@
     },
     {
       "id": "tpl_1769580710_user_backup_f97e032a",
-      "name": "凌越1（使用者修改備份）",
+      "name": "凌越1",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "建炫114年分類帳",
+      "updated_at": "2026-08-24 14:48:20",
+      "file": "templates/tpl_1769580710_user_backup_f97e032a.json"
+    },
+    {
+      "id": "tpl_1769580710_user_backup_f97e032a__official_c101f982",
+      "name": "凌越1（使用者修改備份）（官方新版 2026-08-19 09:16:44）",
       "mode": "sectioned_ledger",
       "file_type": "xlsx",
       "sheet": "總帳",
-      "updated_at": "2026-08-19 09:16:44",
-      "file": "templates/tpl_1769580710_user_backup_f97e032a.json"
+      "updated_at": "2026-08-24 15:36:30",
+      "file": "templates/tpl_1769580710_user_backup_f97e032a__official_c101f982.json"
     },
     {
       "id": "tpl_1780995165",
@@ -190,12 +208,30 @@
       "file": "templates/tpl_1768549701.json"
     },
     {
+      "id": "tpl_1787554344499",
+      "name": "文中公司版1",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "分類帳~1",
+      "updated_at": "2026-08-24 14:52:24",
+      "file": "templates/tpl_1787554344499.json"
+    },
+    {
+      "id": "tpl_1787543218251",
+      "name": "會計師補助幫手",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "分    類    帳",
+      "updated_at": "2026-08-24 11:47:25",
+      "file": "templates/tpl_1787543218251.json"
+    },
+    {
       "id": "community_shengchialin-dot_tpl_1787543218251",
       "name": "會計師補助幫手（社群：shengchialin-dot）",
       "mode": "header_map",
       "file_type": "xlsx",
       "sheet": "分    類    帳",
-      "updated_at": "2026-08-24",
+      "updated_at": "2026-08-24 14:09:15",
       "file": "templates/community_shengchialin-dot_tpl_1787543218251.json"
     },
     {
@@ -233,6 +269,15 @@
       "sheet": "Page 1",
       "updated_at": "2026-06-09 10:26:07",
       "file": "templates/tpl_1765850363_user_backup_15221950.json"
+    },
+    {
+      "id": "tpl_1787555610092",
+      "name": "皇輝",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "Page 1",
+      "updated_at": "2026-08-24 15:26:39",
+      "file": "templates/tpl_1787555610092.json"
     },
     {
       "id": "tpl_1780381272",
@@ -278,6 +323,15 @@
       "sheet": "Sheet1",
       "updated_at": "2026-01-02 15:52:05",
       "file": "templates/tpl_1767080421.json"
+    },
+    {
+      "id": "tpl_1787555375915",
+      "name": "麗盛集團1",
+      "mode": "sectioned_ledger",
+      "file_type": "xlsx",
+      "sheet": "Sheet1",
+      "updated_at": "2026-08-24 15:09:35",
+      "file": "templates/tpl_1787555375915.json"
     },
     {
       "id": "tpl_1780038432",

@@ -1,5 +1,5 @@
 {
-  "name": "會計師補助幫手（社群：shengchialin-dot）",
+  "name": "會計師補助幫手",
   "file_type": "xlsx",
   "sheet": "分    類    帳",
   "header_row": 1,
@@ -92,6 +92,6 @@
   "wenzhong_marker_col": "A",
   "wenzhong_code_col": "B",
   "wenzhong_name_col": "D",
-  "id": "community_shengchialin-dot_tpl_1787543218251",
-  "updated_at": "2026-08-24 14:09:15"
+  "id": "tpl_1787543218251",
+  "updated_at": "2026-08-24 11:47:25"
 }

@@ -1,19 +1,17 @@
 {
-  "name": "凌越1",
+  "name": "凌越1（使用者修改備份）（官方新版 2026-08-19 09:16:44）",
   "file_type": "xlsx",
-  "sheet": "建炫114年分類帳",
+  "sheet": "總帳",
   "header_row": 1,
   "data_start_row": 2,
   "stop_when_blank_rows": 0,
-  "mode": "header_map",
+  "mode": "sectioned_ledger",
   "columns": {
-    "date": "A:日期",
-    "vno": "B:憑單號數",
-    "summary": "E:摘要",
-    "account_code": "C:科目代號",
-    "account_name": "D:科目名稱",
-    "debit": "F:借方",
-    "credit": "G:貸方"
+    "date": "A",
+    "vno": "D",
+    "summary": "F",
+    "debit": "I",
+    "credit": "J"
   },
   "auto_fill_continuation": {
     "enabled": true
@@ -39,8 +37,8 @@
   "wenzhong_marker_col": "A",
   "wenzhong_code_col": "B",
   "wenzhong_name_col": "B",
-  "id": "tpl_1769580710_user_backup_f97e032a",
-  "updated_at": "2026-08-24 14:48:20",
+  "id": "tpl_1769580710_user_backup_f97e032a__official_c101f982",
+  "updated_at": "2026-08-24 15:36:30",
   "amount_mode": "double",
   "dc_debit_values": [
     "1",

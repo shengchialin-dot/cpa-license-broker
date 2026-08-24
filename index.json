@@ -190,6 +190,15 @@
       "file": "templates/tpl_1768549701.json"
     },
     {
+      "id": "community_shengchialin-dot_tpl_1787543218251",
+      "name": "會計師補助幫手（社群：shengchialin-dot）",
+      "mode": "header_map",
+      "file_type": "xlsx",
+      "sheet": "分    類    帳",
+      "updated_at": "2026-08-24",
+      "file": "templates/community_shengchialin-dot_tpl_1787543218251.json"
+    },
+    {
       "id": "tpl_1765850363",
       "name": "正航",
       "mode": "sectioned_ledger",

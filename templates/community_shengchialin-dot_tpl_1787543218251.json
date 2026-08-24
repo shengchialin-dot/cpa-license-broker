@@ -1,0 +1,97 @@
+{
+  "name": "會計師補助幫手（社群：shengchialin-dot）",
+  "file_type": "xlsx",
+  "sheet": "分    類    帳",
+  "header_row": 1,
+  "data_start_row": 2,
+  "mode": "header_map",
+  "columns": {
+    "date": "日期",
+    "vno": "傳票號碼",
+    "summary": "摘要",
+    "account_code": "會計項目",
+    "account_name": "項目名稱(借/貸)",
+    "debit": "借方金額",
+    "credit": "貸方金額"
+  },
+  "amount_mode": "double",
+  "signature": {
+    "sheet_name": "分    類    帳",
+    "header_row": 1,
+    "headers": [
+      "會計項目",
+      "項目名稱(借/貸)",
+      "日期",
+      "傳票號碼",
+      "摘要",
+      "借方金額",
+      "貸方金額",
+      "借/貸",
+      "餘額",
+      "客供商代號",
+      "客戶/供應商"
+    ],
+    "column_count": 11
+  },
+  "skip_if_contains": [
+    "上期結轉"
+  ],
+  "stop_when_blank_rows": 0,
+  "dc_debit_values": [
+    "1",
+    "借",
+    "借方",
+    "D",
+    "DR"
+  ],
+  "dc_credit_values": [
+    "2",
+    "貸",
+    "貸方",
+    "C",
+    "CR"
+  ],
+  "auto_fill_continuation": {
+    "enabled": false
+  },
+  "account_infer": {
+    "enabled": false,
+    "trigger_keyword": "期初",
+    "trigger_position": "prev_row",
+    "search_up_rows": 6,
+    "trigger_col": "",
+    "account_regex": "\\(\\s*(\\d{3,10})\\s+([^\\)]+?)\\s*\\)"
+  },
+  "row_filter": {
+    "enabled": false,
+    "column": "",
+    "operator": "!=",
+    "values": [
+      "0"
+    ],
+    "action": "keep"
+  },
+  "date_mode": "direct",
+  "date_month_col": "",
+  "date_day_col": "",
+  "date_year": "",
+  "date_year_from_filename": false,
+  "date_source_col": "",
+  "date_regex": "",
+  "accname_row_offset": 0,
+  "accname_pair_window_rows": 2,
+  "accname_cols": "",
+  "account_name_suffix": {
+    "enabled": false,
+    "only_account_names": [],
+    "suffix_cols": [],
+    "separator": "-"
+  },
+  "wenzhong_marker_enabled": false,
+  "wenzhong_marker_text": "科目代號",
+  "wenzhong_marker_col": "A",
+  "wenzhong_code_col": "B",
+  "wenzhong_name_col": "D",
+  "id": "community_shengchialin-dot_tpl_1787543218251",
+  "updated_at": "2026-08-24"
+}
